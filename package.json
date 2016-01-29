@@ -1,0 +1,11 @@
+{
+  "name": "stingray-devtools",
+  "version": "0.1.0",
+  "main": "boot.js",
+  "dependencies": {
+    "babel-plugin-syntax-function-bind": "^6.3.13",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-register": "^6.4.3",
+    "rxjs-es": "^5.0.0-beta.1"
+  }
+}
